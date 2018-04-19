@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Testing](README.md)
+* [Knowledge](README.md)
 * [Questions](finance.md)
 * Untitled2
 
