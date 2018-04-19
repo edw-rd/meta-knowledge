@@ -13,3 +13,9 @@
 
 * [Learning List](just-keep-learning/learning-list.md)
 
+## Lists
+
+* [Books](lists/books.md)
+* [So Many Questions](lists/so-many-questions/README.md)
+  * [Untitled](lists/so-many-questions/untitled.md)
+
