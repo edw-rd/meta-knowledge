@@ -1,6 +1,5 @@
 # Table of contents
 
 * [Knowledge](README.md)
-* [Questions](finance.md)
-* Untitled2
+* [Things That I want to Learn](finance.md)
 
