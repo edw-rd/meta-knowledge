@@ -16,6 +16,5 @@
 ## Lists
 
 * [Books](lists/books.md)
-* [So Many Questions](lists/so-many-questions/README.md)
-  * [Untitled](lists/so-many-questions/untitled.md)
+* [So Many Questions](lists/so-many-questions.md)
 
