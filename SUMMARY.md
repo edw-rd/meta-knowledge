@@ -16,5 +16,14 @@
 ## Lists
 
 * [Books](lists/books.md)
-* [So Many Questions](lists/so-many-questions.md)
+* Places
+* Movies
+* [So Many Questions](so-many-questions.md)
+* Philosophy of Life
+  * Simple Living
+  * Time
+  * Mindfulness
+* Finance
+  * Financially Independent
+  * Investment
 
