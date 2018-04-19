@@ -9,3 +9,7 @@
   * [P: This GitBook](project-challenge-experience/active/p-this-gitbook.md)
 * Archived
 
+## Just Keep Learning
+
+* [Learning List](just-keep-learning/learning-list.md)
+
