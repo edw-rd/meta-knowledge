@@ -6,5 +6,5 @@ description: A Repository of RichardLitt/knowledge
 
 ### About
 
-Decided to share every on Dynalist. Link will be updated later.
+Decided to share on Dynalist. Link will be updated later.
 
